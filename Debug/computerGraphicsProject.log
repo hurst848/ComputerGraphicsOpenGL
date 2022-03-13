@@ -1,0 +1,5 @@
+﻿  Plane.cpp
+  Source.cpp
+D:\UniDocs\year_2\computerGraphicsProgramming\projects\computerGraphicsProject\Source.cpp(162,29): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Generating Code...
+  computerGraphicsProject.vcxproj -> D:\UniDocs\year_2\computerGraphicsProgramming\projects\computerGraphicsProject\Debug\computerGraphicsProject.exe

@@ -1,0 +1,10 @@
+﻿  Plane.cpp
+  Propellor.cpp
+  Source.cpp
+D:\UniDocs\year_2\computerGraphicsProgramming\projects\computerGraphicsProject\Source.cpp(162,29): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Generating code
+  16 of 1120 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    44 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  computerGraphicsProject.vcxproj -> D:\UniDocs\year_2\computerGraphicsProgramming\projects\computerGraphicsProject\Release\computerGraphicsProject.exe
